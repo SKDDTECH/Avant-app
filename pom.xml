@@ -102,7 +102,7 @@
 
     <!-- Build settings -->
     <build>
-        <finalName>tesla</finalName>
+        <finalName>avant</finalName>
         
         <plugins>
             <!-- Compiler Plugin -->
