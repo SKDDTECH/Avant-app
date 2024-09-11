@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Obi Technology application Project2.</h1>
+<h1 align="center">Welcome to Obi Technology Application Project2.</h1>
 <h1 align="center">Landmark Software Solutions (LSS)  are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising billionaires IT professionals accross the nations of the World.
 	Landmark Software Solutions (LSS) offers Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
